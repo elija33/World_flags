@@ -86,3 +86,38 @@ p {
   position: relative;
   top: 50px;
 }
+
+.latviatop {
+  bottom: 35px;
+  left: 30%;
+}
+
+.nigeriatext {
+  left: 70px;
+  position: relative;
+  top: 300px;
+}
+
+.nigeriaright {
+  background-color: green;
+  height: 160px;
+  width: 70px;
+  position: relative;
+  top: 20rem;
+}
+
+.nigeriainside {
+  background-color: white;
+  height: 160px;
+  width: 50px;
+  position: relative;
+  top: 20rem;
+}
+
+.nigerialeft {
+  background-color: green;
+  height: 160px;
+  width: 70px;
+  position: relative;
+  left: 10rem;
+}
