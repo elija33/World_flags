@@ -1,0 +1,88 @@
+.worldName {
+  display: inline-block;
+}
+
+.japaninline {
+  display: inline-block;
+}
+
+.world {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.palau {
+  background-color: #0085ca;
+  width: 300px;
+  height: 200px;
+}
+
+.inside {
+  background-color: #ffd100;
+  border-radius: 70%;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  top: 50px;
+  left: 30%;
+}
+
+p {
+  position: relative;
+  left: 10%;
+}
+
+.japan {
+  background-color: white;
+  width: 300px;
+  height: 200px;
+  border: solid black 0.2px;
+}
+
+.japaninside {
+  background-color: #bc002d;
+  width: 100px;
+  height: 100px;
+  border-radius: 70%;
+  position: relative;
+  top: 50px;
+  left: 30%;
+}
+
+.ukraine {
+  width: 300px;
+  height: 80px;
+  background-color: #0057b7;
+}
+
+.insideukraine {
+  background-color: #ffdd00;
+  width: 300px;
+  height: 70px;
+  position: relative;
+  top: 80px;
+}
+
+.latvia {
+  background-color: #a4343a;
+  width: 300px;
+  height: 50px;
+  position: relative;
+  top: 100px;
+}
+
+.insidelatvia {
+  background-color: white;
+  width: 300px;
+  height: 50px;
+  position: relative;
+  top: 50px;
+}
+
+.outlatvia {
+  background-color: #a4343a;
+  width: 300px;
+  height: 50px;
+  position: relative;
+  top: 50px;
+}
